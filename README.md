@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanSam-aj
 - 👀 I’m interested in Front end Web development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
-- 📫 How to reach me Instagram: https://instagram.com/samiat_sanni?igshid=MzNlNGNkZWQ4Mg==  Linkedln:https://www.linkedin.com/in/sanni-samiat-662a33243  
+- 📫 How to reach me Instagram: https://instagram.com/samiat_sanni?igshid=MzNlNGNkZWQ4Mg==  Linkedln:https://www.linkedin.com/in/sanni-samiat-662a33243  Twitter: https://twitter.com/samiat_aj?t=z9t_EVdMtxEDV1A7IkTrSw&s=09
 
 <!---
 SanSam-aj/SanSam-aj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
